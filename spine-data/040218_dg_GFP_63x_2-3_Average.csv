@@ -1,0 +1,159 @@
+Variable,Min,Max,Mean,StdDev,Median,Sum,Count,Unit,Category,Channel,Collection,Depth,Distance,Image,Level,Radius,Time,Type
+Dendrite Area,222.446,222.446,222.446,0.0153128,222.446,222.446,1,um^2,Dendrite,,,0,,,1,,1,
+Dendrite Branch Depth,0,0,0,0,0,0,1,,Dendrite,,,0,,,1,,1,
+Dendrite Branch Level,1,1,1,0,1,1,1,,Dendrite,,,0,,,1,,1,
+Dendrite Branching Angle,0,0,0,0,0,0,1,°,Dendrite,,,0,,,1,,1,
+Dendrite Branching Angle B,0,0,0,0,0,0,1,°,Dendrite,,,0,,,1,,1,
+Dendrite Length,71.6703,71.6703,71.6703,0.0132956,71.6703,71.6703,1,um,Dendrite,,,0,,,1,,1,
+Dendrite Mean Diameter,0.972147,0.972147,0.972147,0.000143017,0.972147,0.972147,1,um,Dendrite,,,0,,,1,,1,
+Dendrite No. Spines,40,40,40,0,40,40,1,,Dendrite,,,0,,,1,,1,
+Dendrite Orientation Angle,100.415,100.415,100.415,0,100.415,100.415,1,°,Dendrite,,,0,,,1,,1,
+Dendrite Position X,116.381,116.381,116.381,0.0185265,116.381,116.381,1,um,Dendrite,,Dendrite Position,0,,,1,,1,
+Dendrite Position Y,86.955,86.955,86.955,0,86.955,86.955,1,um,Dendrite,,Dendrite Position,0,,,1,,1,
+Dendrite Position Z,10.955,10.955,10.955,0.00171285,10.955,10.955,1,um,Dendrite,,Dendrite Position,0,,,1,,1,
+Dendrite Resistance,115.952,115.952,115.952,0.0146581,115.952,115.952,1,1/um,Dendrite,,,0,,,1,,1,
+Dendrite Spine Density,5.58111,5.58111,5.58111,0.000320603,5.58111,5.58111,1,1/10um,Dendrite,,,0,,,1,,1,
+Dendrite Straightness,0.758976,0.758976,0.758976,0.000160545,0.758976,0.758976,1,,Dendrite,,,0,,,1,,1,
+Dendrite Time,0,0,0,0,0,0,1,s,Dendrite,,,0,,,1,,1,
+Dendrite Time Index,1,1,1,0,1,1,1,,Dendrite,,,0,,,1,,1,
+Dendrite Volume,56.1837,56.1837,56.1837,0.00871716,56.1837,56.1837,1,um^3,Dendrite,,,0,,,1,,1,
+Filament Area (sum),390.491,390.491,390.491,0,390.491,390.491,1,um^2,Filament,,,,,,,,1,
+Filament BoundingBoxAA Length X,17.9672,17.9672,17.9672,0,17.9672,17.9672,1,um,Filament,,Filament BoundingBoxAA Length,,,,,,1,
+Filament BoundingBoxAA Length Y,56.0503,56.0503,56.0503,0,56.0503,56.0503,1,um,Filament,,Filament BoundingBoxAA Length,,,,,,1,
+Filament BoundingBoxAA Length Z,7.9157,7.9157,7.9157,0.00104307,7.9157,7.9157,1,um,Filament,,Filament BoundingBoxAA Length,,,,,,1,
+Filament BoundingBoxOO Length A,4.72572,4.72572,4.72572,0.00082871,4.72572,4.72572,1,um,Filament,,Filament BoundingBoxOO Length,,,,,,1,
+Filament BoundingBoxOO Length B,16.4352,16.4352,16.4352,0,16.4352,16.4352,1,um,Filament,,Filament BoundingBoxOO Length,,,,,,1,
+Filament BoundingBoxOO Length C,56.7148,56.7148,56.7148,0,56.7148,56.7148,1,um,Filament,,Filament BoundingBoxOO Length,,,,,,1,
+Filament Dendrite Area (sum),222.446,222.446,222.446,0.0153128,222.446,222.446,1,um^2,Filament,,,,,,,,1,
+Filament Dendrite Length (sum),71.6703,71.6703,71.6703,0.0132956,71.6703,71.6703,1,um,Filament,,,,,,,,1,
+Filament Dendrite Volume (sum),56.1837,56.1837,56.1837,0.00871716,56.1837,56.1837,1,um^3,Filament,,,,,,,,1,
+Filament Distance from Origin,145.602,145.602,145.602,0,145.602,145.602,1,um,Filament,,Filament Distance from Origin,,,,,,1,
+Filament Full Branch Depth,0,0,0,0,0,0,1,,Filament,,,,,,,,1,
+Filament Full Branch Level,1,1,1,0,1,1,1,,Filament,,,,,,,,1,
+Filament Generation,0,0,0,0,0,0,1,,Filament,,,,,,,,1,
+Filament Length (sum),132.373,132.373,132.373,0,132.373,132.373,1,um,Filament,,,,,,,,1,
+Filament No. Dendrite Branch Pts,0,0,0,0,0,0,1,,Filament,,,,,,,,1,
+Filament No. Dendrite Branches,0,1,0.946667,0.224697,1,71,75,,Filament,,,,0,,,,1,
+Filament No. Dendrite Segments,1,1,1,0,1,1,1,,Filament,,,,,,,,1,
+Filament No. Dendrite Terminal Pts,1,1,1,0,1,1,1,,Filament,,,,,,,,1,
+Filament No. Edges,1307,1307,1307,0,1307,1307,1,,Filament,,,,,,,,1,
+Filament No. Sholl Intersections,0,1,0.964286,0.185577,1,54,56,,Filament,,,,,,,0,1,
+Filament No. Spine Branch Pts,18,18,18,0,18,18,1,,Filament,,,,,,,,1,
+Filament No. Spine Segments,77,77,77,0,77,77,1,,Filament,,,,,,,,1,
+Filament No. Spine Terminal Pts,59,59,59,0,59,59,1,,Filament,,,,,,,,1,
+Filament No. Unconnected Parts,1,1,1,0,1,1,1,,Filament,,,,,,,,1,
+Filament No. Vertices,1308,1308,1308,0,1308,1308,1,,Filament,,,,,,,,1,
+Filament Position X,116.856,116.856,116.856,0.0115583,116.856,116.856,1,um,Filament,,Filament Position,,,,,,1,
+Filament Position Y,86.1755,86.1755,86.1755,0,86.1755,86.1755,1,um,Filament,,Filament Position,,,,,,1,
+Filament Position Z,10.8788,10.8788,10.8788,0.00154349,10.8788,10.8788,1,um,Filament,,Filament Position,,,,,,1,
+Filament Spine Area (sum),168.044,168.044,168.044,0.0268455,168.044,168.044,1,um^2,Filament,,,,,,,,1,
+Filament Spine Length (sum),60.7024,60.7024,60.7024,0,60.7024,60.7024,1,um,Filament,,,,,,,,1,
+Filament Spine Volume (sum),30.3701,30.3701,30.3701,0.00497577,30.3701,30.3701,1,um^3,Filament,,,,,,,,1,
+Filament Time,0,0,0,0,0,0,1,s,Filament,,,,,,,,1,
+Filament Time Index,1,1,1,0,1,1,1,,Filament,,,,,,,,1,
+Filament Volume (sum),86.5538,86.5538,86.5538,0.00462195,86.5538,86.5538,1,um^3,Filament,,,,,,,,1,
+Pt Branching Angle Type=Spine Attachment,24.1745,92.537,68.2173,16.8504,70.9974,2728.69,40,°,Point,,,0,,,,,1,Spine Attachment
+Pt Branching Angle Type=Spine Branch,24.079,98.3904,51.6938,20.2655,48.2415,878.794,17,°,Point,,,0,,,,,1,Spine Branch
+Pt Diameter Type=Dendrite Beginning,1.12458,1.12458,1.12458,0,1.12458,1.12458,1,um,Point,,,0,,,,,1,Dendrite Beginning
+Pt Diameter Type=Spine Attachment,0.493564,1.65503,1.03839,0.22895,1.02065,41.5357,40,um,Point,,,0,,,,,1,Spine Attachment
+Pt Diameter Type=Dendrite Terminal,0.292427,0.292427,0.292427,0,0.292427,0.292427,1,um,Point,,,0,,,,,1,Dendrite Terminal
+Pt Diameter Type=Spine Terminal,0.24,1.24842,0.58911,0.217179,0.60349,34.7575,59,um,Point,,,0,,,,,1,Spine Terminal
+Pt Diameter Type=Spine Branch,0.474495,1.60043,1.0327,0.329698,1.09343,18.5885,18,um,Point,,,0,,,,,1,Spine Branch
+Pt Distance Type=Dendrite Beginning,0,0,0,0,0,0,1,um,Point,,,0,,,,,1,Dendrite Beginning
+Pt Distance Type=Spine Attachment,1.49231,71.0744,34.1609,21.616,37.3198,1366.44,40,um,Point,,,0,,,,,1,Spine Attachment
+Pt Distance Type=Dendrite Terminal,71.6703,71.6703,71.6703,0.0132956,71.6703,71.6703,1,um,Point,,,0,,,,,1,Dendrite Terminal
+Pt Distance Type=Spine Terminal,2.27857,73.2751,34.0822,22.0482,37.2238,2010.85,59,um,Point,,,0,,,,,1,Spine Terminal
+Pt Distance Type=Spine Branch,1.70583,72.0718,30.4948,22.9401,21.5796,548.907,18,um,Point,,,0,,,,,1,Spine Branch
+Pt Distance from Origin Type=Dendrite Beginning,131.801,131.801,131.801,0.0287365,131.801,131.801,1,um,Point,,Pt Distance from Origin,0,,,,,1,Dendrite Beginning
+Pt Distance from Origin Type=Dendrite Terminal,156.175,156.175,156.175,0,156.175,156.175,1,um,Point,,Pt Distance from Origin,0,,,,,1,Dendrite Terminal
+Pt Distance from Origin Type=Spine Attachment,132.266,156.843,146.007,9.11897,151.138,5840.29,40,um,Point,,Pt Distance from Origin,0,,,,,1,Spine Attachment
+Pt Distance from Origin Type=Spine Terminal,132.463,159.543,145.454,9.4322,150.217,8581.82,59,um,Point,,Pt Distance from Origin,0,,,,,1,Spine Terminal
+Pt Distance from Origin Type=Spine Branch,132.37,159.158,144.073,9.76863,137.555,2593.31,18,um,Point,,Pt Distance from Origin,0,,,,,1,Spine Branch
+Pt Generation Type=Dendrite Beginning,0,0,0,0,0,0,1,,Point,,,0,,,,,1,Dendrite Beginning
+Pt Generation Type=Dendrite Terminal,0,0,0,0,0,0,1,,Point,,,0,,,,,1,Dendrite Terminal
+Pt Generation Type=Spine Attachment,0,0,0,0,0,0,40,,Point,,,0,,,,,1,Spine Attachment
+Pt Generation Type=Spine Terminal,0,0,0,0,0,0,59,,Point,,,0,,,,,1,Spine Terminal
+Pt Generation Type=Spine Branch,0,0,0,0,0,0,18,,Point,,,0,,,,,1,Spine Branch
+Pt Position X Type=Dendrite Beginning,117.653,117.653,117.653,0.0219176,117.653,117.653,1,um,Point,,Pt Position,0,,,,,1,Dendrite Beginning
+Pt Position X Type=Dendrite Terminal,107.887,107.887,107.887,0,107.887,107.887,1,um,Point,,Pt Position,0,,,,,1,Dendrite Terminal
+Pt Position X Type=Spine Attachment,108.415,123.586,116.795,4.39824,116.978,4671.78,40,um,Point,,Pt Position,0,,,,,1,Spine Attachment
+Pt Position X Type=Spine Terminal,108.345,125.454,116.755,4.57225,117.128,6888.54,59,um,Point,,Pt Position,0,,,,,1,Spine Terminal
+Pt Position X Type=Spine Branch,108.468,123.897,116.562,4.33949,117.232,2098.12,18,um,Point,,Pt Position,0,,,,,1,Spine Branch
+Pt Position Y Type=Dendrite Beginning,58.9683,58.9683,58.9683,0,58.9683,58.9683,1,um,Point,,Pt Position,0,,,,,1,Dendrite Beginning
+Pt Position Y Type=Dendrite Terminal,112.098,112.098,112.098,0,112.098,112.098,1,um,Point,,Pt Position,0,,,,,1,Dendrite Terminal
+Pt Position Y Type=Spine Attachment,60.4268,111.979,85.8483,15.7948,88.3075,3433.93,40,um,Point,,Pt Position,0,,,,,1,Spine Attachment
+Pt Position Y Type=Spine Terminal,60.3296,114.202,84.884,16.3138,87.0677,5008.16,59,um,Point,,Pt Position,0,,,,,1,Spine Terminal
+Pt Position Y Type=Spine Branch,60.4049,113.438,82.7483,16.9636,76.958,1489.47,18,um,Point,,Pt Position,0,,,,,1,Spine Branch
+Pt Position Z Type=Dendrite Beginning,7.2195,7.2195,7.2195,0.00062821,7.2195,7.2195,1,um,Point,,Pt Position,0,,,,,1,Dendrite Beginning
+Pt Position Z Type=Dendrite Terminal,13.6082,13.6082,13.6082,0.00247776,13.6082,13.6082,1,um,Point,,Pt Position,0,,,,,1,Dendrite Terminal
+Pt Position Z Type=Spine Attachment,7.24482,13.3807,10.8042,2.18473,12.0284,432.169,40,um,Point,,Pt Position,0,,,,,1,Spine Attachment
+Pt Position Z Type=Spine Terminal,6.94432,13.75,10.7939,2.33004,11.2704,636.842,59,um,Point,,Pt Position,0,,,,,1,Spine Terminal
+Pt Position Z Type=Spine Branch,7.05852,13.3767,10.3242,2.27817,10.285,185.836,18,um,Point,,Pt Position,0,,,,,1,Spine Branch
+Pt Time Type=Dendrite Beginning,0,0,0,0,0,0,1,s,Point,,,0,,,,,1,Dendrite Beginning
+Pt Time Type=Dendrite Terminal,0,0,0,0,0,0,1,s,Point,,,0,,,,,1,Dendrite Terminal
+Pt Time Type=Spine Attachment,0,0,0,0,0,0,40,s,Point,,,0,,,,,1,Spine Attachment
+Pt Time Type=Spine Terminal,0,0,0,0,0,0,59,s,Point,,,0,,,,,1,Spine Terminal
+Pt Time Type=Spine Branch,0,0,0,0,0,0,18,s,Point,,,0,,,,,1,Spine Branch
+Pt Time Index Type=Dendrite Beginning,1,1,1,0,1,1,1,,Point,,,0,,,,,1,Dendrite Beginning
+Pt Time Index Type=Dendrite Terminal,1,1,1,0,1,1,1,,Point,,,0,,,,,1,Dendrite Terminal
+Pt Time Index Type=Spine Attachment,1,1,1,0,1,40,40,,Point,,,0,,,,,1,Spine Attachment
+Pt Time Index Type=Spine Terminal,1,1,1,0,1,59,59,,Point,,,0,,,,,1,Spine Terminal
+Pt Time Index Type=Spine Branch,1,1,1,0,1,18,18,,Point,,,0,,,,,1,Spine Branch
+Spine Area,0.360236,5.24653,2.18239,1.20419,1.99758,168.044,77,um^2,Spine,,,0,,,1,,1,
+Spine Attachment Pt Branching Angle,24.079,98.3904,60.6254,20.248,61.3368,4486.28,74,°,Spine,,,0,,,1,,1,
+Spine Attachment Pt Diameter,0.474495,1.65503,1.03624,0.279432,1.05668,79.7908,77,um,Spine,,,0,,,1,,1,
+Spine Attachment Pt Distance,1.49231,72.0718,32.2835,22.2167,33.1192,2485.83,77,um,Spine,,,0,,,1,,1,
+Spine Attachment Pt Distance from Origin,132.266,156.843,146.007,9.11897,151.138,5840.29,40,um,Spine,,Spine Attachment Pt Distance from Origin,0,,,1,,1,
+Spine Attachment Pt Generation,0,0,0,0,0,0,40,,Spine,,,0,,,1,,1,
+Spine Attachment Pt Position X,108.415,123.586,116.795,4.39824,116.978,4671.78,40,um,Spine,,Spine Attachment Pt Position,0,,,1,,1,
+Spine Attachment Pt Position Y,60.4268,111.979,85.8483,15.7948,88.3075,3433.93,40,um,Spine,,Spine Attachment Pt Position,0,,,1,,1,
+Spine Attachment Pt Position Z,7.24482,13.3807,10.8042,2.18473,12.0284,432.169,40,um,Spine,,Spine Attachment Pt Position,0,,,1,,1,
+Spine Attachment Pt Time,0,0,0,0,0,0,40,s,Spine,,,0,,,1,,1,
+Spine Attachment Pt Time Index,1,1,1,0,1,40,40,,Spine,,,0,,,1,,1,
+Spine Branch Depth,0,0,0,0,0,0,77,,Spine,,,0,,,1,,1,
+Spine Branch Level,1,1,1,0,1,77,77,,Spine,,,0,,,1,,1,
+Spine Branchings,0,2,0.246753,0.460261,0,19,77,,Spine,,,0,,,1,,1,
+Spine Length,0.053918,2.72822,0.788342,0.559496,0.638533,60.7024,77,um,Spine,,,0,,,1,,1,
+Spine Max Diameter,0.50144,1.75085,1.14092,0.284401,1.16216,87.8505,77,um,Spine,,,0,,,1,,1,
+Spine Mean Diameter,0.369421,1.61382,0.882902,0.273176,0.867579,67.9834,77,um,Spine,,,0,,,1,,1,
+Spine Min Diameter,0.24,1.56309,0.627637,0.309012,0.610378,48.328,77,um,Spine,,,0,,,1,,1,
+Spine Neck Length,0,2.13205,0.27049,0.44589,0,20.8277,77,um,Spine,,,0,,,1,,1,
+Spine Neck Max Diameter,0,1.51823,0.378481,0.463136,0,29.143,77,um,Spine,,,0,,,1,,1,
+Spine Neck Mean Diameter,0,1.4075,0.303224,0.381837,0,23.3483,77,um,Spine,,,0,,,1,,1,
+Spine Neck Min Diameter,0,1.4075,0.246433,0.336752,0,18.9754,77,um,Spine,,,0,,,1,,1,
+Spine Neck Volume,0,1.0285,0.164897,0.211491,0.0797043,12.6971,77,um^3,Spine,,,0,,,1,,1,
+Spine Orientation Angle,-177.264,172.194,1.7734,102.689,12.2631,136.552,77,°,Spine,,,0,,,1,,1,
+Spine Part Length Ground,0,0.539543,0.0714307,0.127251,0,5.50017,77,um,Spine,,Spine Part Length,0,,,1,,1,
+Spine Part Length Head,0.254092,1.38794,0.5498,0.210971,0.522044,42.3346,77,um,Spine,,Spine Part Length,0,,,1,,1,
+Spine Part Length Neck,0,1.25727,0.331983,0.288736,0.277786,25.5627,77,um,Spine,,Spine Part Length,0,,,1,,1,
+Spine Part Max Diameter Ground,0.474495,1.75085,1.09239,0.294986,1.12008,84.1139,77,um,Spine,,Spine Part Max Diameter,0,,,1,,1,
+Spine Part Max Diameter Head,0.331907,1.65503,0.818627,0.308124,0.759935,63.0342,77,um,Spine,,Spine Part Max Diameter,0,,,1,,1,
+Spine Part Max Diameter Neck,0,1.68235,0.791374,0.455874,0.82814,60.9358,77,um,Spine,,Spine Part Max Diameter,0,,,1,,1,
+Spine Part Mean Diameter Ground,0.335732,1.68443,1.00308,0.288674,1.02085,77.2368,77,um,Spine,,Spine Part Mean Diameter,0,,,1,,1,
+Spine Part Mean Diameter Head,0.282303,1.65503,0.751658,0.311041,0.69203,57.8776,77,um,Spine,,Spine Part Mean Diameter,0,,,1,,1,
+Spine Part Mean Diameter Neck,0,1.63069,0.7041,0.430919,0.742,54.2157,77,um,Spine,,Spine Part Mean Diameter,0,,,1,,1,
+Spine Part Min Diameter Ground,0.246503,1.60043,0.899868,0.291904,0.921892,69.2899,77,um,Spine,,Spine Part Min Diameter,0,,,1,,1,
+Spine Part Min Diameter Head,0.24,1.65503,0.681011,0.325851,0.628442,52.4378,77,um,Spine,,Spine Part Min Diameter,0,,,1,,1,
+Spine Part Min Diameter Neck,0,1.63069,0.630533,0.416787,0.618482,48.5511,77,um,Spine,,Spine Part Min Diameter,0,,,1,,1,
+Spine Part Volume Ground,0,0.96475,0.103432,0.163791,0.0316949,7.96428,77,um^3,Spine,,Spine Part Volume,0,,,1,,1,
+Spine Part Volume Head,0.0180554,1.92087,0.249527,0.33336,0.126377,19.2136,77,um^3,Spine,,Spine Part Volume,0,,,1,,1,
+Spine Part Volume Neck,0,0.705318,0.168602,0.166887,0.124931,12.9824,77,um^3,Spine,,Spine Part Volume,0,,,1,,1,
+Spine Position X,108.415,124.618,116.672,4.42171,117.033,8983.74,77,um,Spine,,Spine Position,0,,,1,,1,
+Spine Position Y,60.3408,113.809,84.3272,16.4133,84.3305,6493.2,77,um,Spine,,Spine Position,0,,,1,,1,
+Spine Position Z,7.02603,13.5492,10.5981,2.25794,11.2317,816.056,77,um,Spine,,Spine Position,0,,,1,,1,
+Spine Resistance,0.0630348,24.3925,3.68707,5.46935,1.28253,283.904,77,1/um,Spine,,,0,,,1,,1,
+Spine Straightness,0.698805,1,0.919264,0.0737881,0.940983,70.7833,77,,Spine,,,0,,,1,,1,
+Spine Terminal Pt Diameter,0.24,1.60043,0.692805,0.311121,0.637308,53.346,77,um,Spine,,,0,,,1,,1,
+Spine Terminal Pt Distance,1.70583,73.2751,33.2436,22.3116,34.5547,2559.75,77,um,Spine,,,0,,,1,,1,
+Spine Terminal Pt Distance from Origin,132.463,159.543,145.454,9.4322,150.217,8581.82,59,um,Spine,,Spine Terminal Pt Distance from Origin,0,,,1,,1,
+Spine Terminal Pt Generation,0,0,0,0,0,0,59,,Spine,,,0,,,1,,1,
+Spine Terminal Pt Intensity Center,109,1335,728.678,316.523,698,42992,59,,Spine,1,,0,,Image 1,,,1,
+Spine Terminal Pt Position X,108.345,125.454,116.755,4.57225,117.128,6888.54,59,um,Spine,,Spine Terminal Pt Position,0,,,1,,1,
+Spine Terminal Pt Position Y,60.3296,114.202,84.884,16.3138,87.0677,5008.16,59,um,Spine,,Spine Terminal Pt Position,0,,,1,,1,
+Spine Terminal Pt Position Z,6.94432,13.75,10.7939,2.33004,11.2704,636.842,59,um,Spine,,Spine Terminal Pt Position,0,,,1,,1,
+Spine Terminal Pt Time,0,0,0,0,0,0,59,s,Spine,,,0,,,1,,1,
+Spine Terminal Pt Time Index,1,1,1,0,1,59,59,,Spine,,,0,,,1,,1,
+Spine Terminal Pt Volume,0.00723823,2.14637,0.294268,0.421202,0.135534,22.6586,77,um^3,Spine,,,0,,,1,,1,
+Spine Time,0,0,0,0,0,0,77,s,Spine,,,0,,,1,,1,
+Spine Time Index,1,1,1,0,1,77,77,,Spine,,,0,,,1,,1,
+Spine Volume,0.0257286,1.43699,0.394417,0.317773,0.266591,30.3701,77,um^3,Spine,,,0,,,1,,1,
